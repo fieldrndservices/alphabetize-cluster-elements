@@ -19,7 +19,7 @@ A VI Package (VIP) is available. It is recommended to use the [VI Package Manage
 
 ## Build
 
-The VI Package Build (.vipb) specification, located in the `configs` folder relative to the project root, is configured for the package source to be `builds` folder. Thus, the Source Distribution for each component must be built **before** opening the `ACE.vipb` file in the <abbr title="VI Package Manager">VIPM</abbr>; otherwise, the package configuration will be lost.
+The VI Package Build (.vipb) specification, located in the `configs` folder relative to the project root, is configured for the package source to be `builds` folder. Thus, the Source Distribution for each component must be built **before** opening the `Alphabetize Cluster Elements.vipb` file in the <abbr title="VI Package Manager">VIPM</abbr>; otherwise, the package configuration will be lost.
 
 ### Packaging using VIPM Pro (recommended)
 
@@ -27,7 +27,7 @@ __Important__, if creating a package for LabVIEW 2015 from LabVIEW 2017, the [VI
 
 If VIPM Pro is available, then open the `Alphabetize Cluster Elements.lvproj` file in any version of LabVIEW newer than 2015 and run the `Package.vi` located in the `Scripts` project library of the Project Explorer window. Ensure all dependencies are installed before running the `Package.vi` script.
 
-Note, the version number for the package is set in the `configs\ACE.vipb` file. The version number in the VIP build specification file should be modified and saved _before_ running the `Package.vi` script.
+Note, the version number for the package is set in the `configs\Alphabetize Cluster Elements.vipb` file. The version number in the VIP build specification file should be modified and saved _before_ running the `Package.vi` script.
 
 ### Packaging using VIPM Free
 
@@ -44,7 +44,7 @@ If VIPM Pro is _not_ available, then the following steps can be executed to do e
 9. Copy the `Help` folder to `<project root>\target\15.0\src`.
 10. Start LabVIEW 2015.
 11. Open the `<project root>\target\15.0\Alphabetize Cluster Elements.lvproj` file. Do NOT open the project in any other version of LabVIEW.
-12. Open the `<project root>\target\15.0\configs\ACE.vipb` file in VIPM.
+12. Open the `<project root>\target\15.0\configs\Alphabetize Cluster Elements.vipb` file in VIPM.
 14. Build the VI package with VIPM. The output will be available at `<project root>\target\15.0\packages`. Do NOT modify anything in the package build specification, but ensure the "2015" version of LabVIEW is selected in the upper, right-hand corner of the VIPM application window.
 15. Close VIPM.
 16. Close LabVIEW 2015 and the `<project root>\target\15.0\Alphabetize Cluster Elements.lvproj` file.

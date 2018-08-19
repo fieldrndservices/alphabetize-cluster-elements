@@ -171,7 +171,7 @@
 			<Item Name="Quick Drop" Type="Source Distribution">
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{74886560-EF71-4143-9E19-2C846EA30437}</Property>
-				<Property Name="Bld_buildSpecDescription" Type="Str">Creates a source distribution for the Quick Drop Keyboard Shortcuts. The output is placed in the `builds` folder relative to the project file's location. The source distribution should be built BEFORE opening the VIP Build (ACE.vipb) file because the VIPB is configured to use the `builds` folder for the package source. If this source distribution is not present when the VIPB is opened in the VIPM, then the VPIB will be broken.
+				<Property Name="Bld_buildSpecDescription" Type="Str">Creates a source distribution for the Quick Drop Keyboard Shortcuts. The output is placed in the `builds` folder relative to the project file's location. The source distribution should be built BEFORE opening the VIP Build (Alphabetize Cluster Elements.vipb) file because the VIPB is configured to use the `builds` folder for the package source. If this source distribution is not present when the VIPB is opened in the VIPM, then the VPIB will be broken.
 
 Thus, building the package is a two step process: (1) build the source distribution then (2) build the package. This is done because not all of the source is included in the package and the deployment organization and naming does not match the development organization and naming. 
 
@@ -199,7 +199,7 @@ The VIs are renamed with the `ACE_QD_` prefix to avoid naming conflictings in de
 				<Property Name="Destination[1].path" Type="Path">../builds/Quick Drop/ACE</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{9C3162CC-4DDC-46D5-AC17-0CA6E9F063BE}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9B4EF157-CDBE-4549-B392-BFE220D37490}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Quick Drop.lvlib</Property>
@@ -221,7 +221,7 @@ The VIs are renamed with the `ACE_QD_` prefix to avoid naming conflictings in de
 			<Item Name="Shortcut Menu" Type="Source Distribution">
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{8E285DAA-0B5A-4AA6-BA20-F112D03CC360}</Property>
-				<Property Name="Bld_buildSpecDescription" Type="Str">Creates a LLB distribution for the Shortcut Menu Plugin. The output is placed in the `builds` folder relative to the project file's location. The source distribution should be built BEFORE opening the VIP Build (ACE.vipb) file because the VIPB is configured to use the `builds` folder for the package source. If this source distribution is not present when the VIPB is opened in the VIPM, then the VPIB will be broken. 
+				<Property Name="Bld_buildSpecDescription" Type="Str">Creates a LLB distribution for the Shortcut Menu Plugin. The output is placed in the `builds` folder relative to the project file's location. The source distribution should be built BEFORE opening the VIP Build (Alphabetize Cluster Elements.vipb) file because the VIPB is configured to use the `builds` folder for the package source. If this source distribution is not present when the VIPB is opened in the VIPM, then the VPIB will be broken. 
 
 Thus, building the package is a two step process: (1) build the source distribution then (2) build the package. This is done because not all of the source is included in the package and the deployment organization and naming does not match the development organization and naming. The VIs are renamed with the `ACE_ShortcutMenu_` prefix to avoid naming conflictings in deployment environments.
 
@@ -250,7 +250,7 @@ Thus, building the package is a two step process: (1) build the source distribut
 				<Property Name="Destination[1].path" Type="Path">../builds/Shortcut Menu/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{9C3162CC-4DDC-46D5-AC17-0CA6E9F063BE}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9B4EF157-CDBE-4549-B392-BFE220D37490}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Quick Drop.lvlib</Property>
