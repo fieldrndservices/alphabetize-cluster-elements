@@ -10,6 +10,7 @@
 	<Item Name="API" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Alphabetize.vi" Type="VI" URL="../API/Alphabetize.vi"/>
+		<Item Name="Find All Clusters.vi" Type="VI" URL="../API/Find All Clusters.vi"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
