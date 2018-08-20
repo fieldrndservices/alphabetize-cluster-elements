@@ -11,6 +11,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Alphabetize.vi" Type="VI" URL="../API/Alphabetize.vi"/>
 		<Item Name="Find All Clusters.vi" Type="VI" URL="../API/Find All Clusters.vi"/>
+		<Item Name="Is Cluster.vi" Type="VI" URL="../API/Is Cluster.vi"/>
 	</Item>
 	<Item Name="Support VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
