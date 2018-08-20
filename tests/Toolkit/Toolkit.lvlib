@@ -11,9 +11,11 @@
 </Property>
 	<Item Name="Support VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Alphabetize Target.vi" Type="VI" URL="../Support VIs/Alphabetize Target.vi"/>
+		<Item Name="Alphabetize Cluster Constant Target.vi" Type="VI" URL="../Support VIs/Alphabetize Cluster Constant Target.vi"/>
+		<Item Name="Alphabetize Cluster Control Target.vi" Type="VI" URL="../Support VIs/Alphabetize Cluster Control Target.vi"/>
 		<Item Name="Setup.vi" Type="VI" URL="../Support VIs/Setup.vi"/>
 		<Item Name="Teardown.vi" Type="VI" URL="../Support VIs/Teardown.vi"/>
 	</Item>
-	<Item Name="Alphabetize.vi" Type="VI" URL="../Alphabetize.vi"/>
+	<Item Name="Alphabetize Cluster Constant.vi" Type="VI" URL="../Alphabetize Cluster Constant.vi"/>
+	<Item Name="Alphabetize Cluster Control.vi" Type="VI" URL="../Alphabetize Cluster Control.vi"/>
 </Library>

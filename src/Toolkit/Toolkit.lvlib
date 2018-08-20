@@ -10,12 +10,12 @@
 	<Item Name="API" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Alphabetize.vi" Type="VI" URL="../API/Alphabetize.vi"/>
-		<Item Name="Filter Clusters.vi" Type="VI" URL="../API/Filter Clusters.vi"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 	</Item>
 	<Item Name="Support VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Sort Bundles.vi" Type="VI" URL="../Support VIs/Sort Bundles.vi"/>
 	</Item>
 </Library>
