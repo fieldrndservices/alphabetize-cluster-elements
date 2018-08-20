@@ -20,4 +20,5 @@
 	<Item Name="Alphabetize Cluster Constant.vi" Type="VI" URL="../Alphabetize Cluster Constant.vi"/>
 	<Item Name="Alphabetize Cluster Control.vi" Type="VI" URL="../Alphabetize Cluster Control.vi"/>
 	<Item Name="Find All Clusters.vi" Type="VI" URL="../Find All Clusters.vi"/>
+	<Item Name="Is Cluster.vi" Type="VI" URL="../Is Cluster.vi"/>
 </Library>
