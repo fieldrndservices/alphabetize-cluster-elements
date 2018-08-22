@@ -12,6 +12,8 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Configs" Type="Folder">
 			<Item Name="Alphabetize Cluster Elements.vipb" Type="Document" URL="../configs/Alphabetize Cluster Elements.vipb"/>
+			<Item Name="Post-Install Custom Action.vi" Type="VI" URL="../configs/Post-Install Custom Action.vi"/>
+			<Item Name="Post-Uninstall Custom Action.vi" Type="VI" URL="../configs/Post-Uninstall Custom Action.vi"/>
 		</Item>
 		<Item Name="Documentation" Type="Folder">
 			<Item Name="CHANGELOG.md" Type="Document" URL="../docs/CHANGELOG.md"/>
@@ -229,7 +231,7 @@ The VIs are renamed with the `ACE_QD_` prefix to avoid naming conflictings in de
 				<Property Name="Destination[1].path" Type="Path">../builds/Quick Drop/ACE</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{AA2AC57E-1163-4B9E-AD5E-6817AE3C3653}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{A105C55E-5346-493E-8FA8-56F1E032A338}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">1</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Quick Drop.lvlib</Property>
@@ -316,7 +318,7 @@ Thus, building the package is a two step process: (1) build the source distribut
 				<Property Name="Destination[1].path" Type="Path">../builds/Shortcut Menu/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{AA2AC57E-1163-4B9E-AD5E-6817AE3C3653}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{A105C55E-5346-493E-8FA8-56F1E032A338}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Quick Drop.lvlib</Property>
@@ -410,7 +412,7 @@ Thus, building the package is a two step process: (1) build the source distribut
 				<Property Name="Destination[2].path" Type="Path">../builds/Toolkit/API</Property>
 				<Property Name="Destination[2].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
-				<Property Name="Source[0].itemID" Type="Str">{AA2AC57E-1163-4B9E-AD5E-6817AE3C3653}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{A105C55E-5346-493E-8FA8-56F1E032A338}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Toolkit.lvlib</Property>
