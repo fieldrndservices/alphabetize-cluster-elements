@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2018-08-22 11:53:22" Creator="cfield" Comments="" ID="20dbd4b2b0ce17521478c7fed652c151">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2018-08-22 12:39:33" Creator="cfield" Comments="" ID="05a22875131d08bc273ff3dcb1b4407d">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_ACE</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\builds</Library_Source_Folder>
     <Library_Output_Folder>..\packages</Library_Output_Folder>
@@ -281,7 +281,7 @@
         <Path>..\builds\Toolkit\API\Is Cluster.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E5B64F4710E518A52AE86974DAF2111E</GUID>
+      <GUID>953A8446D09D0448E68573BB15540E04</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
