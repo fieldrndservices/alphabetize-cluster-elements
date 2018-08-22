@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2018-08-22 18:37:49" Creator="cfield" Comments="" ID="5508566556e8c23e9c24c3e1a721ae72">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2018-08-22 18:43:57" Creator="cfield" Comments="" ID="edc36625e2946ded5e13b593302feecc">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_ACE</Package_File_Name>
     <Library_Version>1.0.0.8</Library_Version>
@@ -28,12 +28,21 @@
     <VI_Package_Configuration_File>Alphabetize Cluster Elements.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>A Quick Drop Keyboard Shortcut and Shortcut Menu Plugin to alphabetize cluster elements</One_Line_Description_Summary>
-      <Description>
-</Description>
+      <Description>Alphabetize Cluster Elements (ACE) is a Quick Drop Keyboard Shortcut (QDKS) and Shortcut Menu Plugin (SMP) that will alphabetize elements in a cluster. This is especially useful if the cluster, either a constant or a control, is arranged horizontially or vertically. Alphabetizing the elements provides a quick and easy way to organize elements in a cluster and provides consistency within a project if all clusters organizated this way.
+
+This also includes a relatively simple Application Programming Interface (API) toolkit to programmatically alphabetize cluster elements or include this functionality in other QDKS or SMPs.</Description>
       <Copyright/>
       <Packager>Christopher R Field</Packager>
       <URL>http://www.fieldrndservices.com/</URL>
-      <Release_Notes>## [1.0.0] - 2018-08-21</Release_Notes>
+      <Release_Notes>## [1.0.0] - 2018-08-21
+
+### Added
+
+- Quick Drop Keyboard Shortcut (QDKS) implementation
+- Shortcut Menu Plugin (SMP) implementation
+- An API to programmatically alphabetize cluster elements within a VI or VI script
+- Documentation
+- Automated build</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -281,7 +290,7 @@
         <Path>..\builds\Toolkit\API\Is Cluster.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1A87526E61EA84FC1C0980D95C40F9D2</GUID>
+      <GUID>C19054F74EB4EF1068D61D01E4557B7D</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

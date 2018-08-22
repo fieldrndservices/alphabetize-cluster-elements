@@ -2,7 +2,7 @@
 
 ## What is ACE?
 
-[<abbr title="Alphabetize Cluster Elements">ACE</abbr>]() is a [Quick Drop Keyboard Shortcut (QDKS)](http://labviewartisan.blogspot.com/2009/08/write-your-own-quick-drop-keyboard.html) and a [Shortcut Menu Plugin (SMP)](https://forums.ni.com/t5/LabVIEW-Shortcut-Menu-Plug-Ins/Read-This-First/ta-p/3515399) for the [LabVIEW](https://www.ni.com/labview) development environment published by [National Instruments (NI)](https://www.ni.com)
+[<abbr title="Alphabetize Cluster Elements">ACE</abbr>](https://www.fieldrndservices.com/products/ace) is a [Quick Drop Keyboard Shortcut (QDKS)](http://labviewartisan.blogspot.com/2009/08/write-your-own-quick-drop-keyboard.html) and a [Shortcut Menu Plugin (SMP)](https://forums.ni.com/t5/LabVIEW-Shortcut-Menu-Plug-Ins/Read-This-First/ta-p/3515399) for the [LabVIEW](https://www.ni.com/labview) development environment published by [National Instruments (NI)](https://www.ni.com)
 
 ## Dependencies
 

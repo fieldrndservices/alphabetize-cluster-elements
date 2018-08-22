@@ -6,3 +6,13 @@ All notable changes to this project will be documented in this file, which is wr
 
 ### Added
 
+- Quick Drop Keyboard Shortcut (QDKS) implementation
+- Shortcut Menu Plugin (SMP) implementation
+- An API to programmatically alphabetize cluster elements
+- README documentation
+- Automated build
+- Product icon
+- Functions palette icon
+- Custom VI icons for Toolkit (API) VIs
+- VI descriptions for Toolkit (API) VIs
+
