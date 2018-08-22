@@ -1,6 +1,6 @@
-Alphabetize Cluster Elements: A Quick Drop Keyboard Shortcut for LabVIEW
+ACE: A Quick Drop Keyboard Shortcut and Shortcut Menu Plugin for LabVIEW to Alphabetize Cluster Elements
 
-Alphabetize Cluster Elements is dual licensed under the MIT and Apache-2.0 licenses.
+Alphabetize Cluster Elements (ACE) is dual licensed under the MIT and Apache-2.0 licenses.
 
                               The MIT License
 
