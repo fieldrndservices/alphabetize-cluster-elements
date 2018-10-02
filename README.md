@@ -9,7 +9,8 @@
 - LabVIEW 2015 or newer (for building)
 - LabVIEW 2017 or newer (for development)
 - [VIPM Pro](https://vipm.jki.net/get) (only for automated builds)
-- [VIPM API](https://support.jki.net/hc/en-us/articles/214136183-VIPM-API) (only for automated builds)
+- [VIPM API](https://support.jki.net/hc/en-us/articles/214136183-VIPM-API)
+- [OpenG File Library](http://sine.ni.com/nips/cds/view/p/lang/en/nid/209027)
 
 The VIPM API must be installed for all versions of LabVIEW (2015 and 2017) to avoid errors during automated builds.
 
