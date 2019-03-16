@@ -38,7 +38,7 @@ If VIPM Pro is _not_ available, then the following steps can be executed to do e
 2. From the Project Explorer window, **File>>Save for Previous Version...**, a new dialog will appear.
 3. Select **15.0** from the drop down menu.
 4. Click **Save...**. A new dialog will open.
-5. Create the `target\15.0` folder hierarchy in the project root, i.e. the same folder as the `Alphabetize Cluster Elements.lvproj` file, if it does not already exists.
+5. Create the `<project root>\target\15.0` folder hierarchy in the project root, i.e. the same folder as the `Alphabetize Cluster Elements.lvproj` file, if it does not already exists.
 6. Click **Save**.
 7. Close LabVIEW 2017 or newer and the `Alphabetize Cluster Elements.lvproj` file.
 8. Navigate to `<project root>\src`.
