@@ -32,11 +32,15 @@
 			<Item Name="README.md" Type="Document" URL="../README.md"/>
 		</Item>
 		<Item Name="Examples" Type="Folder">
-			<Item Name="Simple.vi" Type="VI" URL="../src/Examples/Simple.vi"/>
-			<Item Name="Toolkit - Cluster Constant Target.vi" Type="VI" URL="../src/Examples/Toolkit - Cluster Constant Target.vi"/>
-			<Item Name="Toolkit - Cluster Constant.vi" Type="VI" URL="../src/Examples/Toolkit - Cluster Constant.vi"/>
-			<Item Name="Toolkit - Cluster Control Target.vi" Type="VI" URL="../src/Examples/Toolkit - Cluster Control Target.vi"/>
-			<Item Name="Toolkit - Cluster Control.vi" Type="VI" URL="../src/Examples/Toolkit - Cluster Control.vi"/>
+			<Item Name="Shortcut Menu and Quick Drop Keyboard Shortcut.vi" Type="VI" URL="../src/Examples/Shortcut Menu and Quick Drop Keyboard Shortcut.vi"/>
+			<Item Name="Toolkit - Alphabetize Cluster Constant Target.vi" Type="VI" URL="../src/Examples/Toolkit - Alphabetize Cluster Constant Target.vi"/>
+			<Item Name="Toolkit - Alphabetize Cluster Constant.vi" Type="VI" URL="../src/Examples/Toolkit - Alphabetize Cluster Constant.vi"/>
+			<Item Name="Toolkit - Alphabetize Cluster Control Target.vi" Type="VI" URL="../src/Examples/Toolkit - Alphabetize Cluster Control Target.vi"/>
+			<Item Name="Toolkit - Alphabetize Cluster Control.vi" Type="VI" URL="../src/Examples/Toolkit - Alphabetize Cluster Control.vi"/>
+			<Item Name="Toolkit - Find All Clusters Target.vi" Type="VI" URL="../src/Examples/Toolkit - Find All Clusters Target.vi"/>
+			<Item Name="Toolkit - Find All Clusters.vi" Type="VI" URL="../src/Examples/Toolkit - Find All Clusters.vi"/>
+			<Item Name="Toolkit - Is Cluster Target.vi" Type="VI" URL="../src/Examples/Toolkit - Is Cluster Target.vi"/>
+			<Item Name="Toolkit - Is Cluster.vi" Type="VI" URL="../src/Examples/Toolkit - Is Cluster.vi"/>
 		</Item>
 		<Item Name="Quick Drop.lvlib" Type="Library" URL="../src/Quick Drop/Quick Drop.lvlib"/>
 		<Item Name="Scripts.lvlib" Type="Library" URL="../src/Scripts/Scripts.lvlib"/>
@@ -514,7 +518,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{E8156B5E-3E63-45B9-AAED-7EE6FC97D0E0}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Examples/Simple.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Examples/Shortcut Menu and Quick Drop Keyboard Shortcut.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[10].destinationIndex" Type="Int">0</Property>
@@ -533,19 +537,19 @@
 				<Property Name="Source[12].sourceInclusion" Type="Str">Exclude</Property>
 				<Property Name="Source[12].type" Type="Str">Library</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Examples/Toolkit - Cluster Constant Target.vi</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Examples/Toolkit - Alphabetize Cluster Constant Target.vi</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">VI</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Examples/Toolkit - Cluster Constant.vi</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Examples/Toolkit - Alphabetize Cluster Constant.vi</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].type" Type="Str">VI</Property>
 				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[4].itemID" Type="Ref">/My Computer/Examples/Toolkit - Cluster Control Target.vi</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/My Computer/Examples/Toolkit - Alphabetize Cluster Control Target.vi</Property>
 				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[4].type" Type="Str">VI</Property>
 				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[5].itemID" Type="Ref">/My Computer/Examples/Toolkit - Cluster Control.vi</Property>
+				<Property Name="Source[5].itemID" Type="Ref">/My Computer/Examples/Toolkit - Alphabetize Cluster Control.vi</Property>
 				<Property Name="Source[5].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[5].type" Type="Str">VI</Property>
 				<Property Name="Source[6].Container.applyInclusion" Type="Bool">true</Property>
