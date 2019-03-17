@@ -12,8 +12,8 @@
 		<Item Name="Find All Clusters.vi" Type="VI" URL="../API/Find All Clusters.vi"/>
 		<Item Name="Is Cluster.vi" Type="VI" URL="../API/Is Cluster.vi"/>
 	</Item>
-	<Item Name="Support VIs" Type="Folder">
+	<Item Name="Support" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Sort Bundles.vi" Type="VI" URL="../Support VIs/Sort Bundles.vi"/>
+		<Item Name="Sort Bundles.vi" Type="VI" URL="../Support/Sort Bundles.vi"/>
 	</Item>
 </Library>
