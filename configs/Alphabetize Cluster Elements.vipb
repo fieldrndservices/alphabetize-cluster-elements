@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2018-10-02 15:06:17" Creator="cfield" Comments="" ID="1f526f3bffe98a5d481d7f9ca209745f">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-03-17 16:35:54" Creator="cfield" Comments="" ID="03dade66a7a9405b74a6ed2273f4ef20">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_ACE</Package_File_Name>
     <Library_Version>1.0.0.12</Library_Version>
@@ -148,8 +148,56 @@ This also includes a relatively simple Application Programming Interface (API) t
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
       <Destination_Overrides>
-        <Path>Toolkit/Toolkit.lvlib</Path>
-        <Destination>0</Destination>
+        <Path>Examples/Shortcut Menu and Quick Drop Keyboard Shortcut.vi</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples/Toolkit - Alphabetize Cluster Constant Target.vi</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples/Toolkit - Alphabetize Cluster Constant.vi</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples/Toolkit - Alphabetize Cluster Control Target.vi</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples/Toolkit - Alphabetize Cluster Control.vi</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples/Toolkit - Find All Clusters Target.vi</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples/Toolkit - Find All Clusters.vi</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples/Toolkit - Is Cluster Target.vi</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples/Toolkit - Is Cluster.vi</Path>
+        <Destination>1</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
@@ -290,7 +338,7 @@ This also includes a relatively simple Application Programming Interface (API) t
         <Path>..\builds\Toolkit\API\Is Cluster.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>61134B9D9A7AA46A5518636E651B58AD</GUID>
+      <GUID>CE125BC0EB4F1221AE459F6DB443B9CE</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
