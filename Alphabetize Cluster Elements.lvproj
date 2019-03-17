@@ -33,6 +33,10 @@
 		</Item>
 		<Item Name="Examples" Type="Folder">
 			<Item Name="Simple.vi" Type="VI" URL="../src/Examples/Simple.vi"/>
+			<Item Name="Toolkit - Cluster Constant Target.vi" Type="VI" URL="../src/Examples/Toolkit - Cluster Constant Target.vi"/>
+			<Item Name="Toolkit - Cluster Constant.vi" Type="VI" URL="../src/Examples/Toolkit - Cluster Constant.vi"/>
+			<Item Name="Toolkit - Cluster Control Target.vi" Type="VI" URL="../src/Examples/Toolkit - Cluster Control Target.vi"/>
+			<Item Name="Toolkit - Cluster Control.vi" Type="VI" URL="../src/Examples/Toolkit - Cluster Control.vi"/>
 		</Item>
 		<Item Name="Quick Drop.lvlib" Type="Library" URL="../src/Quick Drop/Quick Drop.lvlib"/>
 		<Item Name="Scripts.lvlib" Type="Library" URL="../src/Scripts/Scripts.lvlib"/>
