@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file, which is wr
 - README documentation
 - Automated build
 - Product icon
+- Examples
 - Functions palette icon
 - Custom VI icons for Toolkit (API) VIs
 - VI descriptions for Toolkit (API) VIs

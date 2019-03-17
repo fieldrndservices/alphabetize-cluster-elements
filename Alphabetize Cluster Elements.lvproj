@@ -31,6 +31,9 @@
 			<Item Name="LICENSE.txt" Type="Document" URL="../docs/LICENSE.txt"/>
 			<Item Name="README.md" Type="Document" URL="../README.md"/>
 		</Item>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="Simple.vi" Type="VI" URL="../src/Examples/Simple.vi"/>
+		</Item>
 		<Item Name="Quick Drop.lvlib" Type="Library" URL="../src/Quick Drop/Quick Drop.lvlib"/>
 		<Item Name="Scripts.lvlib" Type="Library" URL="../src/Scripts/Scripts.lvlib"/>
 		<Item Name="Shortcut Menu.lvlib" Type="Library" URL="../src/Shortcut Menu/Shortcut Menu.lvlib"/>
