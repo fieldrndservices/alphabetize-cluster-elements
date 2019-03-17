@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-03-17 16:49:05" Creator="cfield" Comments="" ID="da902a9e8250e8e436df97281c9912b6">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-03-17 18:10:29" Creator="cfield" Comments="" ID="1f3998e1de7131196bb1e52465dbf492">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_ACE</Package_File_Name>
     <Library_Version>1.0.0.13</Library_Version>
@@ -201,6 +201,12 @@ This also includes a relatively simple Application Programming Interface (API) t
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Help/Alphabetize Cluster Elements.chm</Path>
+        <Destination>4</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
         <Password/>
@@ -211,6 +217,12 @@ This also includes a relatively simple Application Programming Interface (API) t
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>Help/Alphabetize Cluster Elements.chw</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Help/ACE.log</Path>
+      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\docs\LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
@@ -338,7 +350,7 @@ This also includes a relatively simple Application Programming Interface (API) t
         <Path>..\builds\Toolkit\API\Is Cluster.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>60B7A169B17D8B3AECA8A93C92E09791</GUID>
+      <GUID>D252DB0706C018600753BD25A6651644</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
