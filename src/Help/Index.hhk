@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Alphabetize">
+        <param name="Local" value="pages\Toolkit\Alphabetize.html">
+        </OBJECT>
+    <UL>
+        <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Quick Drop Keyboard Shortcut">
+            <param name="Local" value="pages\Add-on\Quick_Drop_Keyboard_Shortcut.html#alphabetize">
+            </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Shortcut Menu Plugin">
+            <param name="Local" value="pages\Add-on\Shortcut_Menu_Plugin.html#alphabetize">
+            </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+            <param name="Name" value="Toolkit">
+            <param name="Local" value="pages\Toolkit\Alphabetize.html">
+            </OBJECT>
+    </UL>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Find All Clusters">
+        <param name="Local" value="pages\Toolkit\Find_All_Clusters.html">
+        </OBJECT>
+    <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Is Cluster">
+        <param name="Local" value="pages\Toolkit\Is_Cluster.html">
+        </OBJECT>
+</UL>
+</BODY></HTML>

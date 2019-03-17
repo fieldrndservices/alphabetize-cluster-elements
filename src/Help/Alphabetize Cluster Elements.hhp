@@ -1,0 +1,15 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=..\..\builds\Help\Alphabetize Cluster Elements.chm
+Contents file=Table of Contents.hhc
+Default topic=pages\Preface.html
+Display compile progress=No
+Error log file=..\..\builds\Help\ACE.log
+Index file=Index.hhk
+Language=0x409 English (United States)
+Title=Alphabetize Cluster Elements
+
+
+[INFOTYPES]
+
