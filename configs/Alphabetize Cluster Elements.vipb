@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-03-17 18:10:29" Creator="cfield" Comments="" ID="1f3998e1de7131196bb1e52465dbf492">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-03-25 17:48:21" Creator="cfield" Comments="" ID="e76085fb5fe86f1a1afb3155eb0caa42">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_ACE</Package_File_Name>
     <Library_Version>1.0.0.13</Library_Version>
@@ -207,6 +207,12 @@ This also includes a relatively simple Application Programming Interface (API) t
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Toolkit/Toolkit.lvlib</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
         <Password/>
@@ -216,6 +222,11 @@ This also includes a relatively simple Application Programming Interface (API) t
         <Path>.</Path>
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
+      </Namespace_Overrides>
+      <Namespace_Overrides>
+        <Path>Toolkit/Toolkit.lvlib</Path>
+        <Namespace_Type>Prefix</Namespace_Type>
+        <Namespace>Field_RnD_Services_ACE_</Namespace>
       </Namespace_Overrides>
       <Exclusions>
         <Path>Help/Alphabetize Cluster Elements.chw</Path>
@@ -350,7 +361,7 @@ This also includes a relatively simple Application Programming Interface (API) t
         <Path>..\builds\Toolkit\API\Is Cluster.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D252DB0706C018600753BD25A6651644</GUID>
+      <GUID>77B550846A54D7C6E73924DEF79BFB18</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
