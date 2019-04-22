@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-03-25 17:48:21" Creator="cfield" Comments="" ID="e76085fb5fe86f1a1afb3155eb0caa42">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-04-22 15:05:24" Creator="cfield" Comments="" ID="6b91848c85bcdb59210f7a77902bddb3">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_ACE</Package_File_Name>
     <Library_Version>1.0.0.13</Library_Version>
@@ -28,9 +28,7 @@
     <VI_Package_Configuration_File>Alphabetize Cluster Elements.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>A Quick Drop Keyboard Shortcut and Shortcut Menu Plugin to alphabetize cluster elements</One_Line_Description_Summary>
-      <Description>Alphabetize Cluster Elements (ACE) is a Quick Drop Keyboard Shortcut (QDKS) and Shortcut Menu Plugin (SMP) that will alphabetize elements in a cluster. This is especially useful if the cluster, either a constant or a control, is arranged horizontially or vertically. Alphabetizing the elements provides a quick and easy way to organize elements in a cluster and provides consistency within a project if all clusters organizated this way.
-
-This also includes a relatively simple Application Programming Interface (API) toolkit to programmatically alphabetize cluster elements or include this functionality in other QDKS or SMPs.</Description>
+      <Description>Alphabetize Cluster Elements (ACE) is a Quick Drop Keyboard Shortcut (QDKS) and Shortcut Menu Plugin (SMP) that will alphabetize elements in a cluster. This is especially useful if the cluster, either a constant or a control, is arranged horizontally or vertically. Alphabetizing the elements provides a quick and easy way to organize elements in a cluster and increases project consistency. This also includes a relatively simple Application Programming Interface (API) toolkit to programmatically alphabetize cluster elements or include this functionality in other QDKS or SMPs.</Description>
       <Copyright/>
       <Packager>Christopher R Field</Packager>
       <URL>http://www.fieldrndservices.com/</URL>
@@ -361,7 +359,7 @@ This also includes a relatively simple Application Programming Interface (API) t
         <Path>..\builds\Toolkit\API\Is Cluster.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>77B550846A54D7C6E73924DEF79BFB18</GUID>
+      <GUID>C5540F5F1A24FD1B782B5FC59C5509B3</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
