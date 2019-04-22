@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-04-22 15:05:24" Creator="cfield" Comments="" ID="6b91848c85bcdb59210f7a77902bddb3">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-04-22 15:08:17" Creator="cfield" Comments="" ID="823ecb67c8ee603ea93f47e084fd4f63">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_ACE</Package_File_Name>
-    <Library_Version>1.0.0.13</Library_Version>
+    <Library_Version>1.0.0.14</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\builds</Library_Source_Folder>
     <Library_Output_Folder>..\packages</Library_Output_Folder>
@@ -200,12 +200,6 @@
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
       <Destination_Overrides>
-        <Path>Help/Alphabetize Cluster Elements.chm</Path>
-        <Destination>4</Destination>
-        <Additional_Destination>false</Additional_Destination>
-        <Additional_Destination_Index>0</Additional_Destination_Index>
-      </Destination_Overrides>
-      <Destination_Overrides>
         <Path>Toolkit/Toolkit.lvlib</Path>
         <Destination>0</Destination>
         <Additional_Destination>false</Additional_Destination>
@@ -226,12 +220,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace>Field_RnD_Services_ACE_</Namespace>
       </Namespace_Overrides>
-      <Exclusions>
-        <Path>Help/Alphabetize Cluster Elements.chw</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>Help/ACE.log</Path>
-      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\docs\LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
@@ -359,7 +347,7 @@
         <Path>..\builds\Toolkit\API\Is Cluster.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C5540F5F1A24FD1B782B5FC59C5509B3</GUID>
+      <GUID>809BD97BFDCA1E4587FB7051E0973C02</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
