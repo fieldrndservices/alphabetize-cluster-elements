@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-04-22 15:08:17" Creator="cfield" Comments="" ID="823ecb67c8ee603ea93f47e084fd4f63">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-05-26 11:51:38" Creator="cfield" Comments="" ID="fb885d61edc7c02e72446030d1859e91">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_ACE</Package_File_Name>
-    <Library_Version>1.0.0.14</Library_Version>
+    <Library_Version>1.0.0.18</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\builds</Library_Source_Folder>
     <Library_Output_Folder>..\packages</Library_Output_Folder>
@@ -205,6 +205,12 @@
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Help/Alphabetize Cluster Elements.chm</Path>
+        <Destination>4</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
         <Password/>
@@ -220,6 +226,9 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace>Field_RnD_Services_ACE_</Namespace>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>Help/ACE.log</Path>
+      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\docs\LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
@@ -347,7 +356,7 @@
         <Path>..\builds\Toolkit\API\Is Cluster.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>809BD97BFDCA1E4587FB7051E0973C02</GUID>
+      <GUID>60C802E8DC92BE3278DEDD333686BC2B</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
