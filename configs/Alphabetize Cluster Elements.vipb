@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-05-26 12:38:12" Creator="cfield" Comments="" ID="404dde3685460cbdaec7e8cd2063fcb0">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-07-05 09:51:50" Modified_Date="2019-05-26 12:44:28" Creator="cfield" Comments="" ID="03215ca34f912a6c45039de3f7c8870b">
   <Library_General_Settings>
     <Package_File_Name>Field_RnD_Services_ACE</Package_File_Name>
-    <Library_Version>1.0.0.19</Library_Version>
+    <Library_Version>1.0.0.20</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\builds</Library_Source_Folder>
     <Library_Output_Folder>..\packages</Library_Output_Folder>
@@ -79,7 +79,7 @@
       <Tools_Menu>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;project&gt;\Field R&amp;D Services\Eulogy</Path>
+        <Path>&lt;project&gt;\Field R&amp;D Services\Alphabetize Cluster Elements</Path>
       </Tools_Menu>
       <Help_Menu>
         <LLB>false</LLB>
@@ -374,7 +374,7 @@
         <Path>..\builds\Toolkit\API\Is Cluster.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>18470DACB3E756AEFFE07E0554DA7738</GUID>
+      <GUID>4FF9CCBF3FBBCE03C634D371AA719BCC</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
