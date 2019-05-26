@@ -1,4 +1,4 @@
-The MIT License
+The 3-Clause BSD License
 
 Copyright (c) 2018 Field R&D Services, LLC. All rights reserved.
 
