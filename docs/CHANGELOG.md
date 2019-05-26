@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file, which is wr
 
 ## [Unreleased]
 
+## [1.0.0] - 2019-03-19
+
 ### Added
 
 - Quick Drop Keyboard Shortcut (QDKS) implementation
